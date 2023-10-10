@@ -23,6 +23,6 @@
         
         <a href="https://khoapa-id-vn-albumswebapp.onrender.com/AlbumsWebApp/" style="font-size: 50px;">AlbumsWebApp</a>
         <span style="display:inline-block; width: 50px;"></span>
-        <a href="https://github.com/ArsenalAlex108/AlbumsWebApp/branches" style="font-size: 50px;">GitHub</a><br>
+        <a href="https://github.com/ArsenalAlex108/AlbumsWebApp" style="font-size: 50px;">GitHub</a><br>
     </body>
 </html>
